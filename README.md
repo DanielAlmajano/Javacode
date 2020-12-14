@@ -2,11 +2,11 @@
 - [🇪🇸 Español](./README.es.md)
 - 🇺🇸 English
 
-#Para descargar
+-- Para descargar
 git clone https://github.com...
 
-#Compilar
+-- Compilar
 javac NombreArchivo.java
 
-#Ejecutar
+-- Ejecutar
 java NombreArchivo.java
